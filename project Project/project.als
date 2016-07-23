@@ -48204,9 +48204,45 @@
 			<LoopStart Value="64" />
 			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="74" />
+			<CurrentTime Value="68.538060374149666" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
+			<LoopOnKeyMidi>
+				<PersistentKeyString Value="l" />
+				<IsNote Value="false" />
+				<Channel Value="-1" />
+				<NoteOrController Value="-1" />
+				<LowerRangeNote Value="-1" />
+				<UpperRangeNote Value="-1" />
+				<ControllerMapMode Value="0" />
+			</LoopOnKeyMidi>
+			<StopKeyMidi>
+				<PersistentKeyString Value="v" />
+				<IsNote Value="false" />
+				<Channel Value="-1" />
+				<NoteOrController Value="-1" />
+				<LowerRangeNote Value="-1" />
+				<UpperRangeNote Value="-1" />
+				<ControllerMapMode Value="0" />
+			</StopKeyMidi>
+			<RecordKeyMidi>
+				<PersistentKeyString Value="r" />
+				<IsNote Value="false" />
+				<Channel Value="-1" />
+				<NoteOrController Value="-1" />
+				<LowerRangeNote Value="-1" />
+				<UpperRangeNote Value="-1" />
+				<ControllerMapMode Value="0" />
+			</RecordKeyMidi>
+			<MetronomOnKeyMidi>
+				<PersistentKeyString Value="c" />
+				<IsNote Value="false" />
+				<Channel Value="-1" />
+				<NoteOrController Value="-1" />
+				<LowerRangeNote Value="-1" />
+				<UpperRangeNote Value="-1" />
+				<ControllerMapMode Value="0" />
+			</MetronomOnKeyMidi>
 			<DrawMode Value="false" />
 			<ComputerKeyboardIsEnabled Value="false" />
 		</Transport>
@@ -48229,8 +48265,8 @@
 		</ScaleInformation>
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="74" />
-			<OtherTime Value="74" />
+			<AnchorTime Value="66" />
+			<OtherTime Value="66" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
