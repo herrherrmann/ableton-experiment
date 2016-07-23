@@ -48691,10 +48691,10 @@
 		<Transport>
 			<PhaseNudgeTempo Value="10" />
 			<LoopOn Value="false" />
-			<LoopStart Value="8" />
+			<LoopStart Value="64" />
 			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="80" />
+			<CurrentTime Value="74" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<DrawMode Value="false" />
@@ -48719,15 +48719,15 @@
 		</ScaleInformation>
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="80" />
-			<OtherTime Value="80" />
+			<AnchorTime Value="74" />
+			<OtherTime Value="74" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
 				<CurrentZoom Value="0.0903778730035060401" />
 			</BeatTimeHelper>
 			<ScrollerPos X="-357" Y="0" />
-			<ClientSize X="918" Y="424" />
+			<ClientSize X="918" Y="427" />
 		</SequencerNavigator>
 		<ViewStateLaunchPanel Value="false" />
 		<ViewStateEnvelopePanel Value="false" />
